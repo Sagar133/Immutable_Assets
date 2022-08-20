@@ -1,0 +1,8 @@
+{
+    "name": "Orc",
+    "description": "Orc from warcraft",
+    "image_url":"https://gateway.pinata.cloud/ipfs/QmPmsKEQ6xtPZyUw6DKEs66JMv8USxJng6YeVNmeU3KfpT",
+    "attack": 123,
+    "collectable": true,
+    "class": "EnumValue1"   
+}

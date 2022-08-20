@@ -1,0 +1,8 @@
+{
+    "name": "Thorin",
+    "description": "King under the mountain",
+    "image_url":"https://gateway.pinata.cloud/ipfs/QmYmK2fQ3WVNwZGLDTJuAyQdZCwy4ByC3qJVq42WyDzUnB",
+    "attack": 123,
+    "collectable": true,
+    "class": "EnumValue1"   
+}

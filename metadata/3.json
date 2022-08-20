@@ -1,0 +1,8 @@
+{
+    "name": "Beasts from Illuvium",
+    "description": "Illuvium character",
+    "image_url":"https://gateway.pinata.cloud/ipfs/QmVvmvBjXtQdCUTqv1LHA6jGGuLDWj1iSCZC85MXpn6shu",
+    "attack": 123,
+    "collectable": true,
+    "class": "EnumValue1"   
+}
